@@ -1,1 +1,0 @@
-**Dockerhub Image:** lucastremaroli/fullcycle
